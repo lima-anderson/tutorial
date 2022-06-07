@@ -78,3 +78,5 @@ Para excluir todas as imagens docker no computador
 ```shell
 docker image prune -a
 ```
+
+[Link](https://docs.google.com/presentation/d/1liSzQPGCLVrNZM1rNN1rPtn_rXOhoahM3uaa6bxMgNA/edit?usp=sharing)
